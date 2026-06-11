@@ -2,7 +2,7 @@ Voy a usar python pq es el lenguaje mas facil segun muchos (recien estoy aprendi
 
 Lista de tareas
 
-1. Saludo avanzado
+1. Saludo avanzado ✅
 2. Generardor de contraseñas
 3. Calculadora
 4. Lista de tareas
