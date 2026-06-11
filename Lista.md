@@ -3,8 +3,8 @@ Lista de tareas
 1. Saludo avanzado ✅
 2. Generardor de contraseñas ✅
 3. Calculadora ✅
-4. Lista de tareas
-5. Adivina el numero
+4. Adivina el numero ✅
+5. Funciones
 6. Analizar texto
 7. Conversor de unidades
 8. Registro de datos
@@ -30,3 +30,9 @@ Aprendi a usar for y range, import random y aprendi algo q ni sabia q existia qu
 3. Calculadora
 
 Solo aprendi a pulir lo q ya sabia, nada interesante jaja xd lol :V 
+
+--------------------------------------------------------------------------------------------------
+4. Adivina el numero
+
+Bueno, como dice el nombre, hice un codigo en el que tienes que adivinar el numero y sinceramente puse pocos intentos para la cantidad de numeros posibles, pero me da igual 😂
+Aprendi a mejorar el comando break, el for y range y el random.
