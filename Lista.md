@@ -1,4 +1,4 @@
-Lista de tareas
+Lista de tareas (10-06-2026) 
 
 1. Saludo avanzado ✅
 2. Generardor de contraseñas ✅
@@ -36,3 +36,10 @@ Solo aprendi a pulir lo q ya sabia, nada interesante jaja xd lol :V
 
 Bueno, como dice el nombre, hice un codigo en el que tienes que adivinar el numero y sinceramente puse pocos intentos para la cantidad de numeros posibles, pero me da igual 😂
 Aprendi a mejorar el comando break, el for y range y el random.
+
+--------------------------------------------------------------------------------------------------
+5. Funciones
+
+Se que no son funciones asi super dificiles, pero es para introducirme en las funciones, por ahora las estoy entendiendo (hice mas que solo esto) y bueno, eso.
+Aprendi a usar funciones (el principio) ademas continuo perfeccionando lo que ya se. 
+
