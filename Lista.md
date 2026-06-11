@@ -1,3 +1,5 @@
+Voy a usar python pq es el lenguaje mas facil segun muchos (recien estoy aprendiendo)
+
 Lista de tareas
 
 1. Saludo avanzado
